@@ -1,4 +1,4 @@
 remote_dependency: looker {
   url: "https://github.com/lvmartins/looker"
-  ref: "cf3787e3d52a969eecc2d764dab0f390f3988ac7"
+  ref: "bec9e96a8e19f468c644f7e57e751d2ffe19d74a"
 }
