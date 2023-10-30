@@ -1,5 +1,5 @@
-include: "//looker/views/*.view.lkml"
-include: "//looker/models/*.model.lkml"
+include: "//bi4all_training/views/*.view.lkml"
+include: "//bi4all_training/models/*.model.lkml"
 
 
 explore: +sales {
